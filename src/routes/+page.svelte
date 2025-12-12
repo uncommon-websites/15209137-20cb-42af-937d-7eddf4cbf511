@@ -2,9 +2,9 @@
   import Navbar from '$lib/components/Navbar.svelte';
   import Hero from '$lib/components/Hero.svelte';
   import Logos from '$lib/components/Logos.svelte';
-  import WhyEcho from '$lib/components/WhyEcho.svelte';
+  import WhyBlendFi from '$lib/components/WhyBlendFi.svelte';
   import Products from '$lib/components/Products.svelte';
-  import Founders from '$lib/components/Founders.svelte';
+  import Security from '$lib/components/Security.svelte';
   import FAQ from '$lib/components/FAQ.svelte';
   import BottomCTA from '$lib/components/BottomCTA.svelte';
   import Footer from '$lib/components/Footer.svelte';
@@ -14,9 +14,9 @@
   <Navbar />
   <Hero />
   <Logos />
-  <WhyEcho />
+  <WhyBlendFi />
   <Products />
-  <Founders />
+  <Security />
   <FAQ />
   <BottomCTA />
   <Footer />
